@@ -1,0 +1,188 @@
+/*css for logo*/
+
+.container-fluid  img{
+    width: 60%;
+    height: 24%;
+    border-radius: 50%;
+ 
+ }
+
+
+ /*css for navbar*/
+.nav-item{
+    padding-right: 20%;
+}
+
+.nav-item a{
+    color: black;
+    font-size: 110%;
+
+}
+
+.nav-item .nav-link{
+    cursor: pointer;
+}
+
+
+/*css for service*/
+.clear-fix{
+    clear: both;
+    float: none;
+    
+}
+
+.img-responsive{
+    width: 100%;
+}
+
+.float-container{
+    position: relative;
+    left: 2%;
+}
+
+.float-text{
+    position: absolute;
+    bottom: 40px;
+    left: 28%;
+}
+
+.col-white{
+    color: #fff;
+}
+
+h3{
+    font-size: 1.5rem;
+    font-family:cursive;
+}
+
+.img-radius{
+    border-radius: 18px;
+}
+
+h2{
+    
+    font-size: 1.9rem;
+    font-family:cursive;
+}
+
+.service{
+    padding: 2% 0;
+}
+.box-3{
+    
+    width: 28%;
+    float: left;
+    margin: 2%;
+}
+
+/*css for food menu*/
+
+.food-menu{
+    background-color:rgb(209, 206, 206) ;
+    margin:4% 0;
+   
+}
+
+.food-menu-box{
+   
+    
+    padding: 0.5%;
+    margin: 2% 3% 2% 0 !important;
+    float: left;
+    background-color: white;
+    border-radius: 18px;
+    
+    
+    
+}
+
+.float-box{
+    position: relative;
+    left: 4%;
+  
+}
+img{
+    width:20%;
+    float: left;
+}
+
+.img-radius{
+    border-radius: 18px;
+}
+
+.food-menu-description{
+    width: 70%;
+    float: left;
+    margin-left: 4%;
+}
+
+
+
+h5{
+    font-size: 1.2rem;
+    font-family: cursive;
+}
+
+.food-cost{
+   font-size: 12px;
+}
+
+.food-menu-detail{
+    font-size: small;
+}
+.btn
+{
+    font-size:small;
+}
+
+/*css for footer*/
+.foot-content{
+    background-image: url(images/bg.jpg);
+    padding: 4% 0;
+    margin: 0 0 4% 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.text-size{
+    font-size: 1.3rem;
+    color: #fff;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+
+a{
+    text-decoration: none;
+   
+}
+.text-sizes{
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*css for lower footer*/
+.list-unstyle{
+    padding-left: 0%;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.terms-condition{
+    padding-top: 3% 0;
+}
+
+.terms-condition a{
+    color:#2e2d2dfa;
+}
+
+.render{
+    position: absolute;
+}
+
+
+
+
